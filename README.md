@@ -68,7 +68,3 @@ The `results/final/` directory contains:
 ## Notes on Reproducibility
 
 LLM outputs are stochastic even at low temperature, and local Ollama model versions may differ across machines. The included CSV files are compact summaries of the final runs used in the paper. The scripts provide the reproducible experimental protocol.
-
-## License
-
-Add a license before public release if the repository is made public.
