@@ -1,0 +1,6 @@
+﻿strategy,games,agreement_rate,agreement_95ci,avg_rounds,avg_manipulator_payoff,avg_victim_payoff,avg_first_manipulator_offer,avg_last_manipulator_offer,offer_delta_last_minus_first,model_error_moves
+fake_anger,60,0.8833,0.778-0.942,8.8667,44.0833,43.0833,49.0833,45.4667,-3.6167,0
+fake_confidence,60,1.0,0.940-1.000,7.1167,50.5,49.5,51.5,51.9167,0.4167,0
+fake_disappointment,60,1.0,0.940-1.000,7.9333,48.0833,51.9167,49.2833,52.9,3.6167,0
+fake_urgency,60,0.9833,0.911-0.997,7.75,49.9,48.2667,54.6167,46.8833,-7.7333,0
+neutral_control,60,1.0,0.940-1.000,6.8,49.9667,50.0333,48.7333,52.2333,3.5,0
