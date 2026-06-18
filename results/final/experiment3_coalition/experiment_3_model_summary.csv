@@ -1,0 +1,6 @@
+﻿player_1_model,games,player_1_coalition_rate,target_target_coalition_rate,no_coalition_rate,avg_player_1_payoff,avg_target_payoff,belief_events,manipulation_detected_rate,avg_player_1_trustworthiness,primary_one_rate,primary_both_rate
+gemma3:4b,72,0.4861,0.4722,0.0417,59.8611,62.2986,288,0.309,62.0139,0.7222,0.2778
+granite3.3:8b,72,0.6667,0.3333,0.0,61.6667,62.0417,288,0.1979,67.0486,0.1333,0.8667
+llama3.1:8b,72,0.5972,0.3889,0.0139,60.9722,62.1042,288,0.1354,69.2882,0.2361,0.7639
+mistral:latest,72,0.5972,0.4028,0.0,60.9722,62.2014,288,0.0625,68.75,0.125,0.875
+qwen2.5:latest,72,0.5139,0.4722,0.0139,60.1389,62.4792,288,0.1076,68.3854,0.2861,0.7139

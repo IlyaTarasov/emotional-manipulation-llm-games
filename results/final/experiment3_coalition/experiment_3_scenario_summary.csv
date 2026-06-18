@@ -1,0 +1,4 @@
+﻿scenario,games,player_1_coalition_rate,target_target_coalition_rate,no_coalition_rate,avg_player_1_payoff,avg_target_payoff,belief_events,manipulation_detected_rate,avg_player_1_trustworthiness,primary_one_rate,primary_both_rate
+balanced,120,0.5833,0.3917,0.025,60.8333,61.8333,480,0.1646,67.3958,0.2983,0.7017
+manipulator_advantaged,120,0.6417,0.35,0.0083,61.4167,61.6208,480,0.1667,66.6979,0.2833,0.7167
+manipulator_disadvantaged,120,0.4917,0.5,0.0083,59.9167,63.2208,480,0.1562,67.1979,0.32,0.68

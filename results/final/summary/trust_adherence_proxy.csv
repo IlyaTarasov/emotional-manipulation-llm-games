@@ -1,0 +1,8 @@
+﻿experiment,strategy,games,message_compliance_rate,action_compliance_rate,overall_adherence_rate,mean_manipulation_detected_rate,heuristic_note
+trust,fake_anger,48,0.2917,0.5,0.0417,0.25,"Lexical plus return-trajectory proxy; exploratory only, aligned to logged exploitation definition."
+trust,fake_disappointment,48,0.8333,0.75,0.75,0.0167,"Lexical plus return-trajectory proxy; exploratory only, aligned to logged exploitation definition."
+trust,fake_guilt,48,0.9167,0.5833,0.5833,0.1583,"Lexical plus return-trajectory proxy; exploratory only, aligned to logged exploitation definition."
+trust,false_reliability,48,0.4375,0.3542,0.2292,0.0583,"Lexical plus return-trajectory proxy; exploratory only, aligned to logged exploitation definition."
+trust,neutral_control,48,1.0,0.9375,0.9375,0.0,"Lexical plus return-trajectory proxy; exploratory only, aligned to logged exploitation definition."
+trust,reality_reframing,48,0.625,0.375,0.1875,0.0042,"Lexical plus return-trajectory proxy; exploratory only, aligned to logged exploitation definition."
+trust,stable_reassurance,48,0.9792,0.7083,0.6875,0.0042,"Lexical plus return-trajectory proxy; exploratory only, aligned to logged exploitation definition."

@@ -1,0 +1,4 @@
+﻿experiment,temperature_logged,max_rounds,belief_every_n_rounds,num_predict_logged,memory,note
+negotiation,0.2,10,1,,off; independent episodes,"Values taken from final result logs, not from default class parameters."
+trust,0.2,10,2,,off; independent episodes,"Values taken from final result logs, not from default class parameters."
+coalition,0.2,5,5,260,off; independent episodes,"Values taken from final result logs, not from default class parameters."

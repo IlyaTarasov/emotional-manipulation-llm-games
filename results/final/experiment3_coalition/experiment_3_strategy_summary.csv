@@ -1,0 +1,9 @@
+﻿strategy,games,player_1_coalition_rate,target_target_coalition_rate,no_coalition_rate,avg_player_1_payoff,avg_target_payoff,belief_events,manipulation_detected_rate,avg_player_1_trustworthiness,primary_one_rate,primary_both_rate
+coalition_scarcity,45,0.5111,0.4889,0.0,60.1111,62.9444,180,0.2333,66.3889,0.2222,0.7778
+competence_signaling,45,0.6667,0.3333,0.0,61.6667,61.8667,180,0.0167,78.0278,0.0444,0.9556
+double_commitment,45,0.8,0.1778,0.0222,63.0,60.9778,180,0.0056,80.1389,0.0,1.0
+exclusive_reassurance,45,0.4889,0.4667,0.0444,59.8889,62.6778,180,0.0167,71.5,1.0,0.0
+fake_anger,45,0.4444,0.5111,0.0444,59.4444,62.7667,180,0.5611,51.3611,0.2711,0.7289
+fake_disappointment,45,0.6667,0.3333,0.0,61.6667,61.6667,180,0.2278,59.3611,0.5156,0.4844
+neutral_control,45,0.5556,0.4444,0.0,60.5556,62.3222,180,0.0,72.5833,0.1156,0.8844
+reputation_reframing,45,0.4444,0.5556,0.0,59.4444,62.5778,180,0.2389,57.4167,0.2356,0.7644

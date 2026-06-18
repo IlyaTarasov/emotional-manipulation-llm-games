@@ -1,0 +1,6 @@
+﻿experiment,strategy,belief_events,target_perception_match_rate,target_marks_mixed_rate,target_detects_manipulation_rate,most_common_perceived_state
+negotiation,fake_anger,532,0.2068,0.1617,0.7293,disappointment
+negotiation,fake_confidence,427,0.0351,0.1382,0.2201,neutral
+negotiation,fake_disappointment,476,0.7563,0.1429,0.5273,disappointment
+negotiation,fake_urgency,465,0.7054,0.0194,0.7828,urgency
+negotiation,neutral_control,408,0.4681,0.098,0.1569,neutral
