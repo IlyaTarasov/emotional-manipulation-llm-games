@@ -89,7 +89,3 @@ Experiment-specific supplementary tables are stored next to the corresponding fu
 ## Notes on Reproducibility
 
 LLM outputs are stochastic even at low temperature, and local Ollama model versions may differ across machines. The included JSON logs and CSV files document the final runs used in the paper. The scripts provide the reproducible experimental protocol, while the included logs provide the exact final artifacts analyzed in the submitted version.
-
-## License
-
-Add a license before public release if the repository is made public.
