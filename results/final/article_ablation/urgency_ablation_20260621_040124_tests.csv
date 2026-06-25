@@ -1,7 +1,0 @@
-﻿comparison,metric,group_a,group_b,n_a,n_b,mean_a,mean_b,diff_a_minus_b,diff_ci_low,diff_ci_high,alternative,p_value,bootstrap_resamples,permutation_resamples,p_fdr_bh
-bundle_vs_neutral_offer_change,offer_change,urgency_bundle,neutral_control,4,3,-6.25,9.666667,-15.916667,-21.25,-12.0,less,0.030697,10000,10000,0.036836
-language_only_vs_neutral_offer_change,offer_change,urgency_language_only,neutral_control,6,3,7.0,9.666667,-2.666667,-7.5,0.5,less,0.175582,10000,10000,0.175582
-policy_only_vs_neutral_offer_change,offer_change,urgency_policy_only,neutral_control,6,3,-12.666667,9.666667,-22.333333,-28.333333,-17.0,less,0.011199,10000,10000,0.016799
-policy_only_vs_language_only_offer_change,offer_change,urgency_policy_only,urgency_language_only,6,6,-12.666667,7.0,-19.666667,-24.166667,-15.5,less,0.0012,10000,10000,0.0024
-language_only_vs_policy_only_language_rate,urgency_language,urgency_language_only,urgency_policy_only,6,6,1.0,0.0,1.0,1.0,1.0,greater,0.0012,10000,10000,0.0024
-bundle_vs_policy_only_language_rate,urgency_language,urgency_bundle,urgency_policy_only,6,6,1.0,0.0,1.0,1.0,1.0,greater,0.0012,10000,10000,0.0024

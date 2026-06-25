@@ -1,5 +1,0 @@
-condition,games,agreement_rate,mean_rounds,manipulator_payoff,target_payoff,mean_first_offer,mean_last_offer,mean_offer_change,target_detection_rate,urgency_language_rate,model_error_moves
-neutral_control,6,1.0,3.5,53.0,47.0,51.666666666666664,56.5,9.666666666666666,0.0,0.0,0
-urgency_bundle,6,1.0,4.166666666666667,51.5,48.5,47.5,43.333333333333336,-6.25,0.0,1.0,0
-urgency_language_only,6,1.0,5.333333333333333,42.0,58.0,60.0,67.0,7.0,0.0,1.0,0
-urgency_policy_only,6,1.0,5.5,51.5,48.5,60.0,47.333333333333336,-12.666666666666666,0.0,0.0,0
