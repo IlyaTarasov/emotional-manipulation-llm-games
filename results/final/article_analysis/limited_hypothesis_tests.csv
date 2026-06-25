@@ -1,0 +1,8 @@
+﻿hypothesis,experiment,prediction,metric,group_a,group_b,n_a,n_b,mean_a,mean_b,diff_a_minus_b,diff_ci_low,diff_ci_high,alternative,p_value,permutation_resamples,bootstrap_resamples,p_fdr_bh
+H1_coercive_pressure_negotiation,negotiation,fake_anger agreement < neutral_control,agreement,fake_anger,neutral_control,60,60,0.883333,1.0,-0.116667,-0.2,-0.05,less,0.007599,10000,10000,0.008866
+H1_coercive_pressure_trust,trust,fake_anger detection > neutral_control,detection_rate,fake_anger,neutral_control,48,48,0.25,0.0,0.25,0.154167,0.35,greater,0.0001,10000,10000,0.000175
+H2_relational_pressure_negotiation,negotiation,fake_disappointment agreement > fake_anger,agreement,fake_disappointment,fake_anger,60,60,1.0,0.883333,0.116667,0.05,0.2,greater,0.006399,10000,10000,0.008866
+H2_relational_pressure_trust,trust,fake_disappointment investment > fake_anger,mean_investment,fake_disappointment,fake_anger,48,48,80.0125,59.6375,20.375,13.489531,27.106354,greater,0.0001,10000,10000,0.000175
+H3_trust_exploitation,trust,false_reliability exploitation > neutral_control,high_investment_exploitation_rate,false_reliability,neutral_control,48,48,0.298049,0.040278,0.257771,0.192435,0.314696,greater,0.0001,10000,10000,0.000175
+H3_private_commitment,coalition,double_commitment coalition_with_manipulator > neutral_control,coalition_with_manipulator,double_commitment,neutral_control,45,45,0.8,0.555556,0.244444,0.066667,0.422222,greater,0.011799,10000,10000,0.011799
+H4_urgency_process,negotiation,fake_urgency offer_change < neutral_control,offer_change,fake_urgency,neutral_control,60,58,-7.733333,3.62069,-11.354023,-12.962112,-9.753994,less,0.0001,10000,10000,0.000175
