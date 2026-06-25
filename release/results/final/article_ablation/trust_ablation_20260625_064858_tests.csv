@@ -1,0 +1,6 @@
+comparison,condition_a,condition_b,metric,alternative,n_a,n_b,estimate_a,estimate_b,difference_a_minus_b,p_value,q_value_bh_fdr
+bundle_vs_neutral_exploitation,false_reliability_bundle,neutral_control,high_investment_exploitation_rate,greater,6,6,0.023809523809523808,0.0,0.023809523809523808,0.5001499850014999,1.0
+language_only_vs_neutral_investment,reliability_language_only,neutral_control,mean_investment,greater,6,6,80.23333333333333,80.33333333333333,-0.09999999999999432,0.5129487051294871,1.0
+policy_only_vs_language_only_exploitation,opportunistic_policy_only,reliability_language_only,high_investment_exploitation_rate,greater,6,6,0.0,0.0,0.0,1.0,1.0
+bundle_vs_policy_only_language,false_reliability_bundle,opportunistic_policy_only,profile_language_hit,greater,6,6,1.0,1.0,0.0,1.0,1.0
+policy_only_vs_neutral_exploitation,opportunistic_policy_only,neutral_control,high_investment_exploitation_rate,greater,6,6,0.0,0.0,0.0,1.0,1.0
