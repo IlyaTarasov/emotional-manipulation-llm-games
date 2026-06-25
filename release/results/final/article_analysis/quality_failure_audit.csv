@@ -1,5 +1,0 @@
-experiment,episodes,model_errors,clipped_or_fallback,belief_events,notes
-Negotiation,300,0,0,0,shape_ok=0.960; shape_insufficient=0.007
-Trust,336,0,0,1680,manipulation_detected_rate=0.070; avg_belief_trustworthiness=71.44
-Coalition,360,0,0,1440,duplicate_conditions=0; no_coalition=3
-Negotiation urgency ablation,72,0,0,0,conditions=4; mean_agreement=1.000
