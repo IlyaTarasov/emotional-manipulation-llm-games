@@ -1,0 +1,5 @@
+condition,games,agreement_rate,mean_rounds,manipulator_payoff,target_payoff,mean_first_offer,mean_last_offer,mean_offer_change,target_detection_rate,anger_language_rate,model_error_moves
+neutral_control,24,1.0,6.46,50.12,49.88,49.41,53.32,3.909,0.0,0.0,0
+fake_anger_bundle,24,0.875,8.88,43.46,42.79,52.83,46.04,-6.792,0.0,0.375,0
+anger_language_only,24,1.0,7.33,45.5,54.5,55.83,58.33,2.5,0.0,0.583,0
+anger_policy_only,24,0.958,8.67,47.67,47.75,53.33,47.42,-5.917,0.0,0.0,0

@@ -1,0 +1,5 @@
+condition,games,mean_investment,mean_return_rate,high_investment_exploitation_rate,detection_rate,return_rate_change,manipulator_payoff,target_payoff,profile_language_rate,model_error_moves,total_belief_events
+neutral_control,24,81.95,0.482,0.0,0.0,0.022,126.846,137.054,1.0,0,120
+false_reliability_bundle,24,73.408,0.474,0.177,0.008,0.021,112.938,133.879,0.875,0,120
+reliability_language_only,24,82.546,0.47,0.0,0.0,0.026,130.408,134.683,1.0,0,120
+opportunistic_policy_only,24,79.892,0.458,0.064,0.0,0.016,128.425,131.358,1.0,0,120
